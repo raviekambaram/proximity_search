@@ -7,3 +7,6 @@ postal code and a radius around the entered postal code.
 Please visit the following URL for live example:
 
 http://dev-proximity-search-123.pantheonsite.io/
+
+username: test
+password: test
